@@ -17,13 +17,12 @@
 		}
 	],
     "require-dev": {
-        "mockery/mockery": "0.9.*"
+        "mockery/mockery": "0.7.*"
     },
     "autoload": {
-        "psr-4": {
+        "psr-0": {
             "Vikasids\\valid\\": "src/"
         }
     },
-    "minimum-stability": "dev",
-	"prefer-stable":"true"
+    "minimum-stability": "dev"
 }
