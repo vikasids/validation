@@ -28,5 +28,5 @@
             "vikasids\\valid\\": "src/"
         }
     },
-    "minimum-stability": "master"
+    "minimum-stability": "dev"
 }
