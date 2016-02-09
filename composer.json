@@ -1,0 +1,28 @@
+{
+    "name": "vikasids/valid",
+    "description": "This ione is my description",
+    "authors": [
+        {
+            "name": "Vikash Dhiman",
+            "email": "vikash.d@idsil.com"
+        }
+    ],
+	"require": {
+        "php": ">=5.0"
+    },
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/vikasids/validation.git"
+		}
+	],
+    "require-dev": {
+        "mockery/mockery": "0.7.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Vikasids\\validi\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
