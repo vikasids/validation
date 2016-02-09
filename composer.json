@@ -1,5 +1,5 @@
 {
-    "name": "vikas/validation",
+    "name": "vikasids/validation",
     "description": "",
     "authors": [
         {
@@ -14,12 +14,9 @@
         "illuminate/validation": "~5.0",
         "illuminate/contracts": "~5.0"
     },
-    "require-dev": {
-        "mockery/mockery": "0.7.*"
-    },
     "autoload": {
-        "psr-0": {
-            "vikasids\\Validation\\": "/"
+        "psr-4": {
+            "vikasids\\validation\\": "valid/"
         }
     },
     "minimum-stability": "dev"
