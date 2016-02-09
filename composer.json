@@ -9,7 +9,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "vikasids\\valid\\": "/"
+            "vikasids\\valid\\": "src/"
         }
     },
     "minimum-stability": "dev"
