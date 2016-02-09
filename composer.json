@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Vikasids\\valid\\": "src/"
+            "Vikasids\\validi\\": "src/"
         }
     },
     "minimum-stability": "dev"
