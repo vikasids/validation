@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-0": {
-            "App\\Providers": "src/"
+            "Vikasids\\Validation": "src/"
         }
     },
 	"minimum-stability": "stable"
