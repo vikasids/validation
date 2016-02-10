@@ -8,12 +8,12 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=5.5.9",
+		"illuminate/support": "~5.2"
     },
     "autoload": {
-        "classmap": [
-            "src/"
-        ]
-    },
-    "minimum-stability": "dev"
+        "psr-0": {
+            "Vikasids\\validi": "src/"
+        }
+    }
 }
