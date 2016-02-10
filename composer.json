@@ -1,0 +1,19 @@
+{
+    "name": "services",
+    "description": "",
+    "authors": [
+        {
+            "name": "Vikash Dhiman",
+            "email": "vikash.d@idsil.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+		"illuminate/support": "~5.2"
+    },
+    "autoload": {
+        "psr-0": {
+            "App\\Providers": "src/"
+        }
+    }
+}
