@@ -8,12 +8,12 @@
         }
     ],
     "require": {
-        "php": ">=5.5.9"
+        "php": ">=5.0"
     },
     "autoload": {
         "psr-0": {
             "Vikasids\\Validation": "src/"
         }
     },
-	"minimum-stability": "stable"
+	"minimum-stability": "dev"
 }
