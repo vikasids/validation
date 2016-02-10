@@ -2,7 +2,7 @@
 /**
  * @author Vikash Dhiman <vikash.d@idsil.com>
  */
-namespace App\Providers;
+namespace Vikasids\Validation;
 
 use Validator;
 use Illuminate\Support\ServiceProvider;
