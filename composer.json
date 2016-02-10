@@ -1,0 +1,19 @@
+{
+    "name": "services",
+    "description": "",
+    "authors": [
+        {
+            "name": "Vikash Dhiman",
+            "email": "vikash.d@idsil.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "minimum-stability": "dev"
+}
